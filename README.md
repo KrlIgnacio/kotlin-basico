@@ -9,11 +9,11 @@
 <h3>📚Estruturas Condicionais</h3>
 <p>diretório: 📁controle_fluxo <br>
 <br>📍If-Else<br>
-📍Estrutura When - Semelhante a Switch-Case</p>
+📍Estrutura When - Semelhante ao Switch-Case</p>
 <hr>
 <h3>📚Paradigma Procedural</h3>
 <p>diretório: 📁procedural <br>
-<br>📍Procedimentos - Função de código executar um procedimento </p>
+<br>📍Procedimentos - Função de código para executar um procedimento </p>
 <hr>
 <h3>📚Estruturas de Repetição </h3>
 <p>diretório: 📁repeticao<br>
