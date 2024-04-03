@@ -21,3 +21,10 @@
 📍Laço de Repetição While<br>
 📍Laço de Repetição Do-While</p>
 <hr>
+<h3>📚Array </h3>
+<p>diretório: 📁array<br>
+<br>📍Declaração<br>
+📍Acessando elementos<br>
+📍Somando elementos do array<br>
+</p>
+<hr>
